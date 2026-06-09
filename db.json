@@ -3,14 +3,14 @@
     {
       "id": 1,
       "name":
-      "senin" : {
+      "senin": {
         session_1: 0,
         session_2: 0
       },
-      "senin" : {
+      "selasa": {
           session_1: 0,
           session_2: 0
-        }
+      }
     }
   ],
   "profile": {
