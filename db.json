@@ -1,8 +1,16 @@
 {
-  "posts": [
+  "trainer": [
     {
       "id": 1,
-      "title": "hello"
+      "name":
+      "senin" : {
+        session_1: 0,
+        session_2: 0,
+      },
+      "senin" : {
+          session_1: 0,
+          session_2: 0,
+        }
     }
   ],
   "profile": {
