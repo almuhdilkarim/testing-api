@@ -1,16 +1,18 @@
 {
-  "posts": {
-    "sultan": {
-      "senin": {
-          "session_1": "10:00 - 11:00",
-          "session_2": "12:00 - 13:00"
-        },
-        "selasa": {
+  "posts": {[
+    {
+      "sultan": {
+        "senin": {
             "session_1": "10:00 - 11:00",
             "session_2": "12:00 - 13:00"
-        }
+          },
+          "selasa": {
+              "session_1": "10:00 - 11:00",
+              "session_2": "12:00 - 13:00"
+          }
+      }
     }
-  },
+  ],
   "profile": {
     "name": "typicode"
   }
