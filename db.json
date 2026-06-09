@@ -4,12 +4,12 @@
       "id": 1,
       "name":
       "senin": {
-        session_1: 0,
-        session_2: 0
+        "session_1": 0,
+        "session_2": 0
       },
       "selasa": {
-          session_1: 0,
-          session_2: 0
+          "session_1": 0,
+          "session_2": 0
       }
     }
   ],
