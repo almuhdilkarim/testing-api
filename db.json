@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "sultan": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
-  "profile": {
+  "baihaqi": {
     "name": "typicode"
   }
 }
